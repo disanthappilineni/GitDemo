@@ -30,6 +30,7 @@ public class stepDefination {
 	public void home_page_is_populated() throws Throwable {
 		// code for validation
 		System.out.println("validation success");
+		System.out.println("PAGE POPULATED");
 	}
 
 	@And("^Cards are displayed \"([^\"]*)\"$")
